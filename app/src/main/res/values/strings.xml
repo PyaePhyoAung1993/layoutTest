@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">layoutTest</string>
+    <string name="btnOne">Button One</string>
+    <string name="btnTwo">Button Two</string>
+    <string name="btnThree">Button Three</string>
+    <string name="btnFour">Button Four</string>
+    <string name="btnFive">Button Five</string>
+    <string name="btnSix">Button Six</string>
+    <string name="btnSeven">Button Seven</string>
+    <string name="test">Oeschinen Lake Campgroun</string>
+    <string name="test1">Kanderstag Swizerlan</string>
+    <string name="text2">Lake A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broA paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument.Paragraphs add one idea at a time to your broader argument.ader argument.</string>
+</resources>
