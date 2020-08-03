@@ -15,7 +15,7 @@
         android:text="@string/test"
         android:textStyle="bold"
         android:layout_marginTop="@dimen/dimen_4dp"
-        android:textColor="@color/ligntGreen"/>
+        android:textColor="@color/orange"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -96,7 +96,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="ROUTE"
-                android:textColor="@color/ligntGreen"/>
+                android:textColor="@color/orange"/>
         </LinearLayout>
 
 
@@ -129,7 +129,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:background="@color/ligntGreen">
+        android:background="@color/orange">
 
         <TextView
             android:layout_width="wrap_content"

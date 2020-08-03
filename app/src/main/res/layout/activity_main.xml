@@ -6,7 +6,6 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:layout_gravity="center"
-    android:background="@color/ligntGreen"
     xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <TextView
